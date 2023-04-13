@@ -191,5 +191,7 @@ footer {
 
 .star {
     font-size: 30px;
-    color: #ffffff88;
+    color: #ffffff63;
+    background-color: #ffffff63;
+    justify-content: space-between;
 }
